@@ -6,11 +6,6 @@
 
 - 🌱 I’m currently learning:
 
-![](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![](https://img.shields.io/badge/-Azure-000?&logo=AzureDevOps&logoColor=0078D7)
-![](https://img.shields.io/badge/-AWS-000?&logo=AmazonAws&logoColor=white)
-![](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-
 - 📫 How to reach me:
 
 [![](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/nkwleroux)
