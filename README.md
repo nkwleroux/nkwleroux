@@ -1,10 +1,6 @@
 #  Hi there, I'm Nicholas Le Roux <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
-### I'm a student at Avans university of applied sciences studying computer science!
-
-- 🔭 I’m currently working on Leetcode problems
-
-- 🌱 I’m currently learning:
+### I'm currently working for Haia Consultancy B.V
 
 - 📫 How to reach me:
 
@@ -12,7 +8,7 @@
 [![](https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=LinkedIn)](https://www.linkedin.com/in/nicholas-lr/)
 [![](https://img.shields.io/badge/-Gmail-FFF?&logo=Gmail)](wmailnkwlr01@gmail.com)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nkwleroux" alt="nkwleroux" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-winning.vercel.app/?username=nkwleroux" alt="nkwleroux" /></a> </p>
 
 <table>
   <tr>
